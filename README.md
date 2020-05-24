@@ -7,7 +7,7 @@ This repository contains resources developed within the following paper:
 
 # Benchmark
 
-  - `data/01-query_tables.csv`: 200 queries and table pairs.
+  - `data/01-query_tables.csv`: 200 querie-table pairs.
   - `data/02-raw_tables.json`: 200 raw tables parsed from Wikipedia. For each table, pageTitle, caption, headings, and rows are provided.
   - `data/03-table_type.csv`: manually identified table type. There are 64 Sport, 33 Place, 27 Music, 16 Film, 12 Culture, 11 Traffic, 8 Product, and 30Other tables (including Politics, TV series, Award, and Company).
   - `data/04-candidate_summaries.csv`: candidate summaries collected by a crowdsourcing task on Amazon Mechanical Turk.
