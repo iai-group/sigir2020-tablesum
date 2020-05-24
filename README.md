@@ -5,7 +5,7 @@ This repository contains resources developed within the following paper:
 
 > S. Zhang*, Z. Dai*, K. Balog and J. Callan. Summarizing and Exploring Tabular Data in  Conversational Search. In: *Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval*, Jul 2020. (* Equal contribution)
 
-# Benchmark
+## Benchmark
 
   - `data/01-query_tables.csv`: 200 query-table pairs.
   - `data/02-raw_tables.json`: 200 raw tables parsed from Wikipedia. For each table, pageTitle, caption, headings, and rows are provided.
