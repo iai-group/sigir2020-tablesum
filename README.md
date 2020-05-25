@@ -12,7 +12,10 @@ This repository contains resources developed within the following paper:
   - `data/03-table_type.csv`: manually identified table type. There are 64 Sport, 33 Place, 27 Music, 16 Film, 12 Culture, 11 Traffic, 8 Product, and 30Other tables (including Politics, TV series, Award, and Company).
   - `data/04-candidate_summaries.csv`: candidate summaries collected by a crowdsourcing task on Amazon Mechanical Turk.
   - `data/05-sentence_annotations.csv`: sentence-level relevance assessments by employing three judges. Each summary was split into sentences.
-  - `data/06xxx.csv`: summary-level relevance assessments by employing seven judges.
+  - `data/06-summary_annotation_votes.csv`: summary-level relevance assessments by employing seven judges. Aggregated the votings for the 7 judges, to asign each summary a score.
+  - `data/06-summary_annotation_raw.csv`: summary-level relevance assessments by employing seven judges. Raw annotations.
+  - `data/07-summary_nlg_cross_validation.zip`: train and test files for summary NLG.
+
   
 ## Citation
 ```
